@@ -1,0 +1,4 @@
+ViewDemo
+========
+
+issue about addObserver
